@@ -1,0 +1,136 @@
+{
+  "widgets": [
+    {
+      "widgetId": "surveillance-header",
+      "name": "Surveillance-header Widget",
+      "position": {
+        "x": 10,
+        "y": 0
+      },
+      "size": {
+        "width": 780,
+        "height": 417
+      },
+      "config": {
+        "accentColor": "#e6fbfb",
+        "customTitle": "Surveillance Header",
+        "secondaryColor": "#8a8a8a",
+        "ledColor": "#ffffff",
+        "displayName": "coder-oj",
+        "modeTag": "RETRO CRT",
+        "animationType": "none",
+        "animationPreviewKey": 3,
+        "roleTag": "Developer",
+        "customBio": "Ojesh Dwivedi // 2nd-year BTech CSE.              Writing C, Python & Java. Shipping open source.  \n Living in the terminal, one commit at a time.",
+        "coords": "◎ 36.7783, 119.4179"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 1,
+      "instanceId": "widget_1792044738124_0"
+    },
+    {
+      "widgetId": "surveillance-telemetry",
+      "name": "Surveillance-telemetry Widget",
+      "position": {
+        "x": 10,
+        "y": 417
+      },
+      "size": {
+        "width": 780,
+        "height": 420
+      },
+      "config": {
+        "accentColor": "#e6fbfb",
+        "customTitle": "Terminal Telemetry",
+        "secondaryColor": "#8a8a8a",
+        "ledColor": "#ffffff"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 2,
+      "instanceId": "widget_1792044738124_1"
+    },
+    {
+      "widgetId": "surveillance-feeds",
+      "name": "Surveillance-feeds Widget",
+      "position": {
+        "x": 10,
+        "y": 845
+      },
+      "size": {
+        "width": 780,
+        "height": 190
+      },
+      "config": {
+        "accentColor": "#e6fbfb",
+        "customTitle": "Surveillance Social Feeds",
+        "secondaryColor": "#8a8a8a",
+        "ledColor": "#ffffff",
+        "hideBorder": false,
+        "hideDecorations": false,
+        "renderMode": "grid"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 3,
+      "instanceId": "widget_1792044738124_2"
+    },
+    {
+      "widgetId": "surveillance-loadout",
+      "name": "Surveillance-loadout Widget",
+      "position": {
+        "x": 10,
+        "y": 1051
+      },
+      "size": {
+        "width": 780,
+        "height": 200
+      },
+      "config": {
+        "accentColor": "#e6fbfb",
+        "customTitle": "Daily Loadout",
+        "secondaryColor": "#8a8a8a",
+        "ledColor": "#ffffff",
+        "languages": [
+          "C++",
+          "C",
+          "Java",
+          "Python",
+          "TypeScript",
+          "HTML5",
+          "CSS3",
+          "JavaScript"
+        ],
+        "workflow": [
+          "VS Code",
+          "Git",
+          "Docker",
+          "Terminal",
+          "PowerShell",
+          "Linux",
+          "Postman",
+          "Figma",
+          "React",
+          "Next.js"
+        ]
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 4,
+      "instanceId": "widget_1792044738124_3"
+    }
+  ],
+  "globalStyles": {
+    "backgroundColor": "#050308",
+    "textColor": "#e5e5e5",
+    "accentColor": "#55ffff",
+    "borderColor": "#1a1424",
+    "fontFamily": "'JetBrains Mono', monospace",
+    "borderRadius": 0,
+    "padding": 24,
+    "themeMode": "dark",
+    "templateStyle": "rugbedbugg"
+  },
+  "templateId": "rugbedbugg"
+}
