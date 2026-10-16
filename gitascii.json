@@ -31,34 +31,11 @@
       "instanceId": "widget_1792044738124_0"
     },
     {
-      "widgetId": "surveillance-telemetry",
-      "name": "Surveillance-telemetry Widget",
-      "position": {
-        "x": 10,
-        "y": 433
-      },
-      "size": {
-        "width": 780,
-        "height": 420
-      },
-      "config": {
-        "accentColor": "#e6fbfb",
-        "customTitle": "Terminal Telemetry",
-        "secondaryColor": "#8a8a8a",
-        "ledColor": "#ffffff",
-        "showTitle": true
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 2,
-      "instanceId": "widget_1792044738124_1"
-    },
-    {
       "widgetId": "surveillance-feeds",
       "name": "Surveillance-feeds Widget",
       "position": {
-        "x": 10,
-        "y": 845
+        "x": 20,
+        "y": 425
       },
       "size": {
         "width": 780,
@@ -69,8 +46,8 @@
         "customTitle": "Surveillance Social Feeds",
         "secondaryColor": "#8a8a8a",
         "ledColor": "#ffffff",
-        "hideBorder": false,
-        "hideDecorations": false,
+        "hideBorder": true,
+        "hideDecorations": true,
         "renderMode": "grid"
       },
       "locked": false,
@@ -82,8 +59,8 @@
       "widgetId": "surveillance-loadout",
       "name": "Surveillance-loadout Widget",
       "position": {
-        "x": 10,
-        "y": 1051
+        "x": 20,
+        "y": 631
       },
       "size": {
         "width": 780,
@@ -137,7 +114,7 @@
   "templateId": "rugbedbugg",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1792141547530_0wq4y",
-    "updatedAt": "2026-10-16T09:05:52.246Z"
+    "revision": "rev_1792142146787_9mnlz",
+    "updatedAt": "2026-10-16T09:15:49.955Z"
   }
 }
