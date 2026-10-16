@@ -1,4 +1,5 @@
 {
+  "username": "coder-oj-live",
   "widgets": [
     {
       "widgetId": "surveillance-header",
@@ -34,7 +35,7 @@
       "name": "Surveillance-telemetry Widget",
       "position": {
         "x": 10,
-        "y": 417
+        "y": 433
       },
       "size": {
         "width": 780,
@@ -44,7 +45,8 @@
         "accentColor": "#e6fbfb",
         "customTitle": "Terminal Telemetry",
         "secondaryColor": "#8a8a8a",
-        "ledColor": "#ffffff"
+        "ledColor": "#ffffff",
+        "showTitle": true
       },
       "locked": false,
       "visible": true,
@@ -132,5 +134,10 @@
     "themeMode": "dark",
     "templateStyle": "rugbedbugg"
   },
-  "templateId": "rugbedbugg"
+  "templateId": "rugbedbugg",
+  "profileSlug": "default",
+  "metadata": {
+    "revision": "rev_1792141547530_0wq4y",
+    "updatedAt": "2026-10-16T09:05:52.246Z"
+  }
 }
